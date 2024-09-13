@@ -23,7 +23,7 @@ So as of right now the commit messages communicate relatively okay as to what I 
 
 How might I embed this process, or something similar in other places of my life?
 
-I can utlize this procress with regular day to day life by helping me organize some daily tasks or even
+I can utlize this procress with regular day to day life by helping me organize some daily tasks or even just to keep track of day to day things. 
 
 <!---
 Rosheel0611/Rosheel0611 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
